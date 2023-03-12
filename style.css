@@ -1,0 +1,13 @@
+.red{
+    font-size: 2rem;
+}
+
+.main-container {
+    background-color: rgb(204, 190, 217);
+    
+}
+
+.abt-me {
+    background-color: rgb(182, 182, 29);
+    display: inline;
+}
